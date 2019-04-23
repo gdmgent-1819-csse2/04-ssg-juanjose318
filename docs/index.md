@@ -1,7 +1,7 @@
 ---
 layout: home
 title: intro
-permalink: intro
+permalink: Intro
 ---
 
 ## Analog clock using points based on mathematical expressions 
