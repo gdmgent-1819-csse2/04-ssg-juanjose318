@@ -1,9 +1,10 @@
 ---
 layout: home
 title: intro
+permalink: intro
 ---
 
-# Analog clock using points based on mathematical expressions 
+## Analog clock using points based on mathematical expressions 
 
 In this site we will discuss the creation of an analog clock with the following files.
 
