@@ -3,8 +3,8 @@ title: CSS2
 email: juanmuno@student.arteveldehs.be
 description: >- # this means to ignore newlines until "baseurl:"
   Fictive website made for CSS2 as part of an assigment
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/04-ssg-juanjose318/" # the subpath of your site, e.g. /blog
+url: ""
 twitter_username: bojackjoserman
 github_username:  juanjose318
 

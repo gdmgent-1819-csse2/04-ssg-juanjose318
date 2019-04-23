@@ -6,7 +6,7 @@ layout: home
 
 In this site we will discuss the creation of an analog clock with the following files.
 
-<img src="/images/clock.png" alt="clock" width="500"/>
+<img src="{{site.baseurl}}/images/clock.png" alt="clock" width="500"/>
 
 Page | 
 ------------ | 

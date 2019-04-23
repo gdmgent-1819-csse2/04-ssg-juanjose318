@@ -6,7 +6,7 @@ permalink: /about/
 
 # Hello there
 
-<img src="/images/brussel1.jpg" alt="person" width="500"/>
+<img src="{{site.baseurl}}/images/brussel1.jpg" alt="person" width="500"/>
 
 My name is juan josé Munoz, i'm graphic and digital media student @ Artevelde University College.
 
