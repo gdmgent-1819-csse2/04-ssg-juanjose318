@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Intro
-permalink: Intro
 ---
 
 ## Analog clock using points based on mathematical expressions 
