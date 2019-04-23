@@ -1,6 +1,6 @@
 ---
 layout: home
-title: intro
+title: Intro
 permalink: Intro
 ---
 
